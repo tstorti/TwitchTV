@@ -1,3 +1,25 @@
+
+.header{
+	text-align: center;
+}
 .logo{
 	width:75px;
+	margin-top:20px;
+}
+.streamsPanel{
+	border: 5px solid #428bca;
+	padding:10px;
+}
+.streamerName{
+	font-weight: bold;
+	font-size:18px;
+	margin-top:20px;
+}
+.streamerStatus{
+	color:gray;
+	font-size:12px;
+	margin-right:10px;
+}
+.content{
+	width:400px;
 }
